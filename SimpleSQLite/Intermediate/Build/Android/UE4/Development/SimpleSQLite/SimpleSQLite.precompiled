@@ -1,8 +1,0 @@
-{
-	"OutputFiles": [
-		"Module.SimpleSQLite.cppa7.o",
-		"Module.SimpleSQLite.cppa8.o",
-		"Module.SimpleSQLite.gen.cppa7.o",
-		"Module.SimpleSQLite.gen.cppa8.o"
-	]
-}

@@ -1,0 +1,31 @@
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Development\SimpleSQLite\Definitions.SimpleSQLite.h
+C:/Users/mspcb/OneDrive/Documents/Unreal Projects/MyProject4/Plugins/SimpleSQLite/Source/Private/SimpleSQLite.cpp
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Source\Public\SimpleSQLite.h
+C:/Users/mspcb/OneDrive/Documents/Unreal Projects/MyProject4/Plugins/SimpleSQLite/Source/Private/SQLiteBlueprintFunctionLibrary.cpp
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Source\Public\SQLiteBlueprintFunctionLibrary.h
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Source\Public\SQLiteConnector.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteSupport\Source\SQLiteSupport\Public\SQLiteDatabaseConnection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteSupport\Source\SQLiteSupport\Public\SQLiteSupport.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteSupport\Source\SQLiteSupport\Public\SQLiteResultSet.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\DatabaseSupport\Source\DatabaseSupport\Public\Database.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteCore\Source\SQLiteCore\Public\SQLitePreparedStatement.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteCore\Source\SQLiteCore\Public\SQLiteTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Database\SQLiteCore\Source\SQLiteCore\Public\SQLiteDatabase.h
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Source\Public\SQLiteCommonTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Inc\SimpleSQLite\SQLiteCommonTypes.generated.h
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Inc\SimpleSQLite\SQLiteConnector.generated.h
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Inc\SimpleSQLite\SQLiteBlueprintFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+C:/Users/mspcb/OneDrive/Documents/Unreal Projects/MyProject4/Plugins/SimpleSQLite/Source/Private/SQLiteConnector.cpp
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Source\Public\SQLiteResultor.h
+C:\Users\mspcb\OneDrive\Documents\Unreal Projects\MyProject4\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Inc\SimpleSQLite\SQLiteResultor.generated.h
+C:/Users/mspcb/OneDrive/Documents/Unreal Projects/MyProject4/Plugins/SimpleSQLite/Source/Private/SQLiteResultor.cpp

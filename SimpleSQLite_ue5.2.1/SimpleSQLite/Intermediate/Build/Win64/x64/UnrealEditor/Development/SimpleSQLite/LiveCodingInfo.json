@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SimpleSQLite.cpp.obj": [
+			"SimpleSQLite.init.gen.cpp.obj",
+			"SQLiteBlueprintFunctionLibrary.gen.cpp.obj",
+			"SQLiteCommonTypes.gen.cpp.obj",
+			"SQLiteConnector.gen.cpp.obj",
+			"SQLiteResultor.gen.cpp.obj",
+			"SimpleSQLite.cpp.obj",
+			"SQLiteBlueprintFunctionLibrary.cpp.obj",
+			"SQLiteConnector.cpp.obj",
+			"SQLiteResultor.cpp.obj"
+		]
+	}
+}

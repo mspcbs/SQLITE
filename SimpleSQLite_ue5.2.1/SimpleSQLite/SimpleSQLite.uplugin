@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0",
+	"FriendlyName": "SQLite",
+	"Description": "This simple plugin allows you to perform common operations on SQLite database.",
+	"Category": "robotent",
+	"CreatedBy": "robotent",
+	"CreatedByURL": "credits to SimpleSQLite",
+	"DocsURL": "https://github.com/mspcbs/SQLITE/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/mspcbs/SQLITE",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimpleSQLite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SQLiteSupport",
+			"Enabled": true
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
