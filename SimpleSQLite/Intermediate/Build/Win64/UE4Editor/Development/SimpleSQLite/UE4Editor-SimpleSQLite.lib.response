@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SimpleSQLite.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mspcb\OneDrive\Documents\Unreal Projects\udp\Intermediate\Build\Win64\udpEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mspcb\OneDrive\Documents\Unreal Projects\udp\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Development\SimpleSQLite\Module.SimpleSQLite.cpp.obj"
+"C:\Users\mspcb\OneDrive\Documents\Unreal Projects\udp\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Development\SimpleSQLite\Module.SimpleSQLite.gen.cpp.obj"
+"C:\Users\mspcb\OneDrive\Documents\Unreal Projects\udp\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Development\SimpleSQLite\Default.rc2.res"
+/OUT:"C:\Users\mspcb\OneDrive\Documents\Unreal Projects\udp\Plugins\SimpleSQLite\Intermediate\Build\Win64\UE4Editor\Development\SimpleSQLite\UE4Editor-SimpleSQLite.lib"
